@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alex Lins/.gradle/caches/transforms-3/5423c65485a974611bfb437c61e9a2e1/transformed/material-1.5.0/res/drawable/navigation_empty_icon.xml" value="0.1635" />
+        <entry key="..\:/Users/Alex Lins/AndroidStudioProjects/Todolist/app/src/main/res/drawable/ic_baseline_time.xml" value="0.1" />
+        <entry key="..\:/Users/Alex Lins/AndroidStudioProjects/Todolist/app/src/main/res/drawable/ic_empty_state.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Alex Lins/AndroidStudioProjects/Todolist/app/src/main/res/drawable/ic_navigate_before.xml" value="0.1" />
+        <entry key="..\:/Users/Alex Lins/AndroidStudioProjects/Todolist/app/src/main/res/layout/activity_add_task.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alex Lins/AndroidStudioProjects/Todolist/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Alex Lins/AndroidStudioProjects/Todolist/app/src/main/res/layout/empty_state.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Alex Lins/AndroidStudioProjects/Todolist/app/src/main/res/layout/item_task.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Alex Lins/AndroidStudioProjects/Todolist/app/src/main/res/menu/popup_menu.xml" value="0.13333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
